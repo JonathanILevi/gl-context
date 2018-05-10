@@ -1,0 +1,5 @@
+name "gl-context"
+description "A simple universal struct to represent an OpenGL context."
+authors "Jonathan Levi"
+copyright "Copyright © 2018, Jonathan Levi"
+license "CC0"
